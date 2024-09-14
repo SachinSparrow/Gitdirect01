@@ -2,3 +2,4 @@
 This is git direct one project.
 
 Author : Sachin Kumar
+Version : 1.0
